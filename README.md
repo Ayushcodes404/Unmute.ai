@@ -70,5 +70,5 @@ Feel free to contribute by reporting issues or submitting pull requests on GitHu
 
 
 ## Author
-Your Name - [Your GitHub](https://github.com/ayushcodes404)
+(https://github.com/ayushcodes404)
 
